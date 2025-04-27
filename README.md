@@ -1,2 +1,19 @@
 # LambPose
-#### All Rights Reserved
+Hi, this is my Graduation project   :-)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### All Rights Reserved
