@@ -5,7 +5,7 @@ import torch.nn.functional as F
 
 # README！
 # 该文件用于绘制模型的结构图，但要求环境的Python版本大于3.10。否则无法正常运行！
-# 生成出图像极为模糊，只供参考，建议手绘。
+# 生成出的图像极为模糊，只供参考，建议手绘。
 
 class DirectionClassifier(nn.Module):
     def __init__(self, input_size=64):
